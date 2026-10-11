@@ -1,7 +1,8 @@
 # Social Cognition Module Contract
 
 ## Status
-DRAFT — not implemented or validated.
+IMPLEMENTED — 5 unit tests passing.
+Formal contract validation and system integration remain pending.
 
 ## Responsibility
 Represent modeled interpretations of social cues and interpersonal context.

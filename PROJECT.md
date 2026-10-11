@@ -31,4 +31,8 @@ Build a minimal, testable Python core before adding
 the interactive user interface.
 
 ## Current status
-Project initialized. Core implementation not started.
+- Four core module implementations are present.
+- Automated unit tests: 21 passing.
+- System-level integration is not yet implemented.
+- Interactive user interface is not yet implemented.
+- Scientific validity and psychological interpretation are not established.

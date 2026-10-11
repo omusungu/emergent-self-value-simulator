@@ -21,4 +21,5 @@ the current stimulus.
 - Integration belongs to a separate interaction mechanism.
 
 ## Status
-DRAFT — not yet implemented or validated.
+IMPLEMENTED — 6 unit tests passing.
+Formal contract validation and system integration remain pending.
