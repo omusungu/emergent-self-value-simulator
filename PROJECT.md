@@ -32,7 +32,10 @@ the interactive user interface.
 
 ## Current status
 - Four core module implementations are present.
-- Automated unit tests: 21 passing.
-- System-level integration is not yet implemented.
+- An aggregation-only integration layer combines the four module states for one stimulus.
+- Automated unit tests: 28 passing, including seven integration tests.
+- Global Workspace, Predictive Feedback, and Inter-module Connections are not implemented.
+- Self-Value and Self-Trust calculations are not implemented.
 - Interactive user interface is not yet implemented.
 - Scientific validity and psychological interpretation are not established.
+- The cognitive integration contract remains a draft and is not approved or frozen.
